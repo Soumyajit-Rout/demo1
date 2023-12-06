@@ -1,0 +1,9 @@
+name: John Doe
+age: 30
+is_student: false
+interests:
+  - programming
+  - hiking
+address:
+  city: New York
+  zip: '10001'
